@@ -1,0 +1,8 @@
+{
+  "name": "Mini Quiz",
+  "short_name": "Quiz",
+  "start_url": "https://<your-github-username>.github.io/telegram-mini-app/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
